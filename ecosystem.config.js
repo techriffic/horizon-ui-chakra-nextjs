@@ -3,7 +3,7 @@ module.exports = {
         name: 'techriffic',
         script: 'npm start',
         env: {
-       PORT: 3001
+       PORT: 3002
      }
     }], 
  
